@@ -7,6 +7,10 @@ This project contains files to analyze weather data with Python and AI.
 The source code is currently hosted on GitHub at:
 https://github.com/c4ristian/wetter
 
+## Data source
+Analysis is performed on weather data from the German Weather Service (DWD).
+https://opendata.dwd.de/climate_environment/CDC/
+
 ## Setup
 ```sh
 conda env create -f environment.yml
