@@ -10,3 +10,5 @@ dependencies:
   - pandas
   - seaborn
   - python=3.13
+  - seaborn
+  - plotly
