@@ -9,3 +9,5 @@ dependencies:
   - numpy
   - pandas
   - python=3.13
+  - seaborn
+  - plotly
