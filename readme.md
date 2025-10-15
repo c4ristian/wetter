@@ -1,11 +1,11 @@
 # Data analytics with Python and AI
 
 ## What is it?
-This project contains files used in a course at ASSC.
+This project contains files to analyze weather data with Python and AI.
 
 ## Where to get it
 The source code is currently hosted on GitHub at:
-https://github.com/c4ristian/assc
+https://github.com/c4ristian/wetter
 
 ## Setup
 ```sh
@@ -18,7 +18,7 @@ conda activate assc
 
 ### Install Kernel 
 ```sh
-python -m ipykernel install --user --name=assc
+python -m ipykernel install --user --name=wetter
 ```
 
 ### Run Notebooks
